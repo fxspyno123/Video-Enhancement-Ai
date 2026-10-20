@@ -2,5 +2,7 @@
   "name": "EnhanceAI Studio",
   "description": "Professional AI video enhancement, upscaling to 4K, video restoration, anime enhancement, color grading, optical flow frame interpolation, smart aspect ratio reframing, and prompt-driven video editing.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
